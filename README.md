@@ -41,9 +41,6 @@ Here is a quick example of how to convert from decimal to binary:
 
 Rubric
 - 6 points - All required items are present.  
-- 5 points - Task was completed, but supplementary materials are weak or missing.
-   - Code is complete, but poorly communicates necessary information
-- 4 points - Task was attempted, but is missing major components.  
-   - Missing comments, videos/photos, or reflection questions
-- 3 points - Did not attempt or student should reattempt.
-   - Inappropriate use of AI tools.
+- 5 points - Task was completed, but supplementary materials are weak or missing. Code is complete, but poorly communicates necessary information
+- 4 points - Task was attempted, but is missing major components. Missing comments, videos/photos, or reflection questions
+- 3 points - Did not attempt or student should reattempt. Inappropriate use of AI tools.
