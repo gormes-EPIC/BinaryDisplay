@@ -31,6 +31,7 @@ Here is a quick example of how to convert from decimal to binary:
 2. Set up your 8 LEDs in your code like you have in previous labs. You may want to use a list for this because 8 LED's can get messy pretty quickly.
 3. Modify your program to light up the corresponding LEDs with the binary value. 1 is represented by a light that is on. 0 is represented by a light that is off.
 
+- [ ] Upload your program and a video of it working to your repository
    
 ## Deliverables
   - [ ] Uploaded a video and your final program to GitHub
