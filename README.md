@@ -19,12 +19,12 @@ https://github.com/user-attachments/assets/2be3eecb-3fd2-4ad7-b4ce-d6a10f310f07
 
 Here is a quick example of how to convert from decimal to binary: 
 
-> To convert 10 to binary
-> 10 % 2 = 0, continue with 10 / 2 = 5
-> 5 % 2 = 1, continue with 5 / 2 = 2
-> 2 % 2 = 0, continue with 2 / 2 = 1
-> 1 % 2 = 1, stop as 1 / 2 = 0
-> Reading remainders gives 1010 (binary).
+- To convert 10 to binary
+- 10 % 2 = 0, continue with 10 / 2 = 5
+- 5 % 2 = 1, continue with 5 / 2 = 2
+- 2 % 2 = 0, continue with 2 / 2 = 1
+- 1 % 2 = 1, stop as 1 / 2 = 0
+- Reading remainders gives 1010 (binary).
 
 ## Part 2: Adding the lights
 1. Now, wire your 8 lights to 8 different GPIO pins.
